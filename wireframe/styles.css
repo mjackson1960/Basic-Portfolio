@@ -1,0 +1,167 @@
+body{
+	padding-right: 50px;
+	padding-left: 50px;
+	background-color: rgb(235,235,236);
+}
+
+#wrapper{
+	max-width: 600px;
+	min-width: 285px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	padding:10px;
+	background-color: rgb(255,255,255); 
+}
+#header{
+	width: auto;
+	height: auto;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-image: url(bkgs/iStock-534129348.jpg);
+}
+#radioshack{
+	width: auto;
+	height: auto;
+	margin-bottom: 25px;
+}
+#flightsafety{
+	width: auto;
+	height: auto;
+	margin-bottom: 25px;
+
+}
+#verizon{
+	width: auto;
+	height: auto;
+	margin-bottom: 25px;
+}
+#union{
+	width: auto;
+	height: auto;
+	margin-bottom: 25px;
+}
+#footer{
+	max-width: 600px;
+	min-width: 285px;
+	padding:2px;
+	text-align: center;
+	color: white;
+	clear: both;
+	background-color: black;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+}
+#iconradio{
+	width:100px;
+	height: 100px;
+	float: left;
+	margin-right: 10px;
+}
+#flighticon{
+	width:100px;
+	height: 100px;
+	float: right;
+	margin-left: 10px;
+}
+#verizonicon{
+	width:100px;
+	height: 100px;
+	margin-right: 10px;
+	float: left;
+}
+#unionicon{
+	width:100px;
+	height: 100px;
+	float: right;
+	margin-left: 10px;
+}
+p{
+	font-family: arial;
+	font-size: 14px;
+	color: gray;
+	scroll-behavior:
+}
+h2{
+	font-family: arial;
+	color: black;
+	font-size: 64px;
+	text-align: center;
+	margin-top: -10px;
+}
+
+h3{
+	margin-top: -50px;
+	font-family: arial;
+	color: black
+	font-size: 52px;
+	text-align: center;
+}
+.poveride{
+	text-align: right;
+}
+#unionlogo{
+	width: 200px;
+	height: 84px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: yellow;
+}
+#firstrow{
+	margin-top: 10px;
+	width: 285px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: green;
+}
+#flash1{
+	width: 95px;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
+#flash2{
+	width: 95px;
+	height: 100px;
+	background-color: pink;
+	float: left; 
+}
+#flash3{
+	width: 95px;
+	height: 100px;
+	background-color: purple;
+	float: left; 
+}
+#secondrow{
+	width: 285px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: green;
+}
+#flash4{
+	width: 95px;
+	height: 100px;
+	background-color: orange;
+	float: left;
+}
+#flash5{
+	width: 95px;
+	height: 100px;
+	background-color: yellow;
+	float: left; 
+}
+#flash6{
+	width: 95px;
+	height: 100px;
+	background-color: green;
+	float: left; 
+}
+#mypic{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	float: left;
+}
